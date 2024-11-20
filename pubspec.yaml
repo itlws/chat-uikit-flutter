@@ -46,7 +46,7 @@ dependencies:
   extended_image: '>=8.2.0 <=8.2.4'
   extended_text_field: ^16.0.0
   extended_text: ^14.0.0
-  package_info_plus: ^4.0.1
+  package_info_plus: ^8.1.1
   loading_animation_widget: ^1.1.0+3
   permission_handler: ^10.2.0
   tuple: ^2.0.0
